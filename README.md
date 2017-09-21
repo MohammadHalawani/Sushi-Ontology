@@ -1,6 +1,6 @@
 # Sushi-Ontology
 
 
-The goal of this ontology is to create an intelligent menu using
+The goal of this ontology was to create an intelligent menu using
 the "Yo! Sushi menu".
 
